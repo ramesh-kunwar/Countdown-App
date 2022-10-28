@@ -1,0 +1,29 @@
+
+
+body{
+    text-align: center;
+}
+.counter {
+    display: flex;
+    justify-content: center;
+    margin: 3rem auto;
+}
+.counter h1{
+    border: 1.5rem solid rgb(0, 80, 252);
+    border-radius: 100%;
+    width: 20rem;
+    height: 20rem;
+    padding: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10rem;
+}
+input{
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    border: 1px solid rgb(73, 73, 73);
+}
+.btn{
+    padding: 12px;
+}
